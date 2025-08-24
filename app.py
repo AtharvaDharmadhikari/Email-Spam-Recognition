@@ -38,7 +38,7 @@ if st.button('Predict'):
 # Fetch and classify the most recent email using IMAP
 if st.button('Fetch Most Recent Gmail Message'):
     # User credentials for IMAP login
-    EMAIL = "atharvadh2020@gmail.com"  # Replace with your Gmail address
+    EMAIL = "xyz123@gmail.com"  # Replace with your Gmail address
     PASSWORD ="xpzgchbyapoxsbwr"  # Replace with your Gmail App Password
 
     try:    
