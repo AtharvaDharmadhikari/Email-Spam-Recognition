@@ -1,7 +1,6 @@
 # 📧 Email Spam Classifier
 
-A machine learning project that classifies emails as **Spam** or **Ham** using multiple ML algorithms, NLP preprocessing, and a **Streamlit** interactive UI.  
-It also supports **real-time email retrieval** via **Gmail API** or **IMAP**.
+A machine learning project that classifies emails as **Spam** or **Ham** using multiple ML algorithms, NLP preprocessing, and a **Streamlit** interactive UI. It also supports **real-time email retrieval** via **Gmail API** or **IMAP**.
 
 ---
 
