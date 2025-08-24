@@ -10,7 +10,7 @@ A machine learning project that classifies emails as **Spam** or **Ham** using m
 - Multiple models: **Naive Bayes**, **SVM**, **Logistic Regression**, **Random Forest**.
 - **Streamlit UI** for classification and metrics visualization.
 - Model tuning with scikit-learn’s **GridSearchCV**.
-- Accuracy, Precision, Recall, F1, ROC curves.
+- Accuracy, Precision, Recall, F1.
 
 ---
 
